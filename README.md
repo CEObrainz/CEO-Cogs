@@ -1,5 +1,5 @@
 # CEO-Cogs
-A place to store cogs that are a work in progress or I feel I should share.
+A place to store cogs that are a work in progress or I feel I should share. If you want to help development of the cogs I create then feel free to donate to my Patreon: https://www.patreon.com/Ainz
 
 ## Affinity
 
