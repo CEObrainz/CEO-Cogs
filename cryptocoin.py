@@ -24,7 +24,7 @@ class Cryptocoin:
     
     def __init__(self, bot):
         self.bot = bot
-        self.my_bittrex = Bittrex("e8488011676540198d8dccdf16c2b5c2", "2493a0961e1c41dd9da01e1212e8ea99", api_version=API_V2_0)
+        self.my_bittrex = Bittrex("", "", api_version=API_V2_0)
         self.settings = fileIO("data/cryptocoin/settings.json", "load")
         self.data15min = fileIO("data/cryptocoin/data15min.json", "load")
         self.data30min = fileIO("data/cryptocoin/data30min.json", "load")
